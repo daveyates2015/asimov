@@ -1,0 +1,42 @@
+<?php
+// module/Album/view/album/album/index.phtml:
+
+$title = 'I am the home page!!!!!';
+//$this->headTitle($title);
+
+?>
+
+
+<h1><?php echo $title; ?></h1>
+<p>
+    <a href="<?php echo $this->url('product', array('action' => 'add')); ?>">Add new item</a>
+    <a href="<?php echo $this->url('product', array('action' => 'list')); ?>">List All Items</a>
+</p>
+
+
+<h2>Recent Items</h2>
+<div class="row">
+    <div class="col-sm-6 ">
+        <table class="table striped">
+            <tr>
+                <th>Item Name</th>
+                <th>Description</th>
+                <th>Date</th>
+                <th>&nbsp;</th>
+            </tr>
+            <?php foreach ($dates as $date) : ?>
+                <tr>
+                    <td><?php echo $this->escapeHtml($date->itemname); ?></td>
+                    <td><?php echo $this->escapeHtml($date->description); ?></td>
+                    <td><?php echo $this->escapeHtml($date->date); ?></td>
+                    <td>
+                        <a href="<?php echo $this->url('product',
+                            array('action' => 'edit', 'id' => $product->id));?>"><i class="fa fa-edit"></i></a>
+                        <a href="<?php echo $this->url('product',
+                            array('action' => 'delete', 'id' => $product->id));?>"><i class="fa fa-trash-o"></i></a>
+                    </td>
+                </tr>
+            <?php endforeach; ?>
+        </table>
+    </div>
+</div>

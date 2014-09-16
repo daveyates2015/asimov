@@ -1,0 +1,50 @@
+2014-03-13 21:27:47 overwrite css/main.css 
+2014-03-13 21:28:10     error css/scss/main.scss (Line 2 of css/scss/_layout.scss: Undefined variable: "$body-bg-colour".)
+2014-03-13 21:28:10 overwrite css/main.css 
+2014-03-13 21:28:16     error css/scss/main.scss (Line 2 of css/scss/_layout.scss: Undefined variable: "$body-bg-colour".)
+2014-03-13 21:28:16 identical css/main.css 
+2014-03-13 21:28:20     error css/scss/main.scss (Line 2 of css/scss/_layout.scss: Undefined variable: "$body-bg-colour".)
+2014-03-13 21:28:20 identical css/main.css 
+2014-03-13 21:28:27 overwrite css/main.css 
+2014-03-13 21:29:01     error css/scss/main.scss (Line 2 of css/scss/_layout.scss: Undefined variable: "$padding".)
+2014-03-13 21:29:01 overwrite css/main.css 
+2014-03-13 21:29:24     error css/scss/main.scss (Line 2 of css/scss/_layout.scss: Undefined variable: "$padding".)
+2014-03-13 21:29:24 overwrite css/main.css 
+2014-03-13 21:29:36     error css/scss/main.scss (Line 2 of css/scss/_layout.scss: Undefined variable: "$padding".)
+2014-03-13 21:29:36 identical css/main.css 
+2014-03-13 21:29:43     error css/scss/main.scss (Line 2 of css/scss/_layout.scss: Undefined variable: "$padding".)
+2014-03-13 21:29:43 overwrite css/main.css 
+2014-03-13 21:29:59     error css/scss/main.scss (Line 29: File to import not found or unreadable: slider.
+Load paths:
+  /var/www/asimov/bay/public/css/scss
+  /home/master-d/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /home/master-d/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /home/master-d/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  /home/master-d/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  /home/master-d/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  /home/master-d/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  /home/master-d/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  /home/master-d/compass.app/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  /home/master-d/vendor/assets/stylesheets)
+2014-03-13 21:29:59 overwrite css/main.css 
+2014-03-13 21:30:11 overwrite css/main.css 
+2014-03-13 21:30:28 overwrite css/main.css 
+2014-03-13 21:31:18 overwrite css/main.css 
+2014-03-13 21:31:51     error css/scss/main.scss (Line 14: File to import not found or unreadable: grid.
+Load paths:
+  /var/www/asimov/bay/public/css/scss
+  /home/master-d/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /home/master-d/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /home/master-d/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  /home/master-d/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  /home/master-d/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  /home/master-d/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  /home/master-d/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  /home/master-d/compass.app/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  /home/master-d/vendor/assets/stylesheets)
+2014-03-13 21:31:51 overwrite css/main.css 
+2014-03-13 21:31:57 overwrite css/main.css 
+2014-03-13 21:32:44 overwrite css/main.css 
+2014-03-17 21:58:51 overwrite css/main.css 

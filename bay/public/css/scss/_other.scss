@@ -1,0 +1,50 @@
+.aligncenter{
+  text-align:center;
+}
+
+.alignright{
+	text-align:right;
+}
+
+.clear{
+	clear:both;
+}
+
+.right{
+	float:right;
+}
+
+.left{
+	float:left;
+}
+
+.nolist{
+	list-style:none;
+	padding-left:0;
+	margin-left:0;
+}
+
+.valign{
+	vertical-align:middle;
+}
+
+hr{
+	border:none;
+	border-bottom:1px solid #ddd;
+	margin:$spacing 0;
+}
+//sticky header
+.sticky {
+  position: fixed;
+  width: 100%;
+  left: 0;
+  top: 0;
+  z-index: 100;
+  border-top: 0;
+}
+
+
+.centre{
+  text-align:center;
+
+}
